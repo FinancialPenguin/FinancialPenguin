@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FinancialPenguin
 - 👀 I’m interested in finance & IT.
-- 🌱 I’m currently learning Python and am looking to expand my knowledge with other programming languages in the fall of 2022.
-- 💞️ I’m looking to collaborate on Python projects.
+- 🌱 I’m currently learning Python/HTML/CSS/Javascript and am looking to expand my knowledge with other programming languages in the fall of 2022.
+- 💞️ I’m looking to collaborate on Python and/or web-development projects.
 - 📫 How to reach me: Github!
